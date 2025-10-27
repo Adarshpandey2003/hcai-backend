@@ -37,4 +37,11 @@ cd backend
 npm install
 
 
+made by
+Mohit Vijay
+Anant sharma
+Adarsh Pandey
+Arptih kagalkar
+
+
 
