@@ -1,6 +1,6 @@
 # 🧠 AI-Powered Disease Prediction App
 
-A full-stack web application that allows users to log in, report symptoms, and receive disease predictions using an ML model. For minor illnesses, the system suggests home remedies; for serious cases, it recommends specialist doctors.
+A full-stack web application that allows the users to log in, report the symptoms, and receive the disease predictions using a Machine Learning model. For minor illnesses, the system suggests home remedies; for serious cases, it recommends specialist doctors.
 
 ---
 
@@ -37,11 +37,11 @@ cd backend
 npm install
 
 
-made by
+Developed by - 
 Mohit Vijay
 Anant sharma
 Adarsh Pandey
-Arptih kagalkar
+Arpith kagalkar
 
 
 
